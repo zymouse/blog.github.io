@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d9f80d4-852f-4c85-8830-c7acf49d8ef2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/diaspora" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/diaspora/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -15,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -57,6 +58,11 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
@@ -107,16 +113,17 @@
       <updated>1547732648114</updated>
       <workItem from="1547732651739" duration="2471000" />
       <workItem from="1547792155817" duration="10138000" />
+      <workItem from="1547811853762" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12609000" />
+    <option name="totallyTimeSpent" value="12825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154761" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18080357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -128,7 +135,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.47704917" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54590166" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -174,12 +181,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/nc.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/nd.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/nc.png" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/nd.png" />
     <entry file="file://$PROJECT_DIR$/public/2019/01/17/hello-world/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -187,36 +190,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/cc.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/by.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/scripts/photoswipe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/README.md" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/cc.png" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/source/images/cc/by.png" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-chan/scripts/photoswipe.js" />
     <entry file="file://$PROJECT_DIR$/themes/diaspora/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
