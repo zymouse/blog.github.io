@@ -4,7 +4,7 @@ date: 2019-01-17 00:16:18
 tags:
 - 电影
 - 小说
-mp3: http://domain.com/awesome.mp3
+mp3: http://www.ytmp3.cn/down/49646.mp3
 cover: http://p0.so.qhmsg.com/bdr/630__/t01dc6a9afdf0693d1f.png
 ---
 
